@@ -1,0 +1,35 @@
+﻿  windowOGL.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\windowOGL.cpp': No such file or directory
+  main.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\main.cpp': No such file or directory
+  cWNDManager.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cWNDManager.cpp': No such file or directory
+  cTexture.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cTexture.cpp': No such file or directory
+  cSprite.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cSprite.cpp': No such file or directory
+  cSoundMgr.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cSoundMgr.cpp': No such file or directory
+  cSound.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cSound.cpp': No such file or directory
+  cRocket.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cRocket.cpp': No such file or directory
+  cInputMgr.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cInputMgr.cpp': No such file or directory
+  cFontMgr.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cFontMgr.cpp': No such file or directory
+  cFont.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cFont.cpp': No such file or directory
+  cFileHandler.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cFileHandler.cpp': No such file or directory
+  cButton.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cButton.cpp': No such file or directory
+  cBullet.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cBullet.cpp': No such file or directory
+  cBkGround.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cBkGround.cpp': No such file or directory
+  cAsteroid.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\cAsteroid.cpp': No such file or directory
+  asteroidsGame.cpp
+c1xx : fatal error C1083: Cannot open source file: 'A:\GALAXIAN2 CAUSE VS HATES ME\GALAXIAN2 CAUSE VS HATES ME\asteroidsGame.cpp': No such file or directory
+  Generating Code...

@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Space Pirate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+windowOGL.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'windowOGL.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cWNDManager.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cWNDManager.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cTexture.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cTexture.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cSoundMgr.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cSoundMgr.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cSound.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cSound.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cInputMgr.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cInputMgr.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cFontMgr.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cFontMgr.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cFont.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cFont.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cFileHandler.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cFileHandler.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cButton.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cButton.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cBullet.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cBullet.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+cBkGround.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'cBkGround.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+asteroidsGame.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'asteroidsGame.obj' or at 'C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\vc140.pdb'; linking object as if no debug info
+  Coursework 2.vcxproj -> C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\Coursework 2.exe
+  Coursework 2.vcxproj -> C:\Users\Keith\Documents\Visual Studio 2015\Projects\Coursework 2\Debug\Coursework 2.pdb (Partial PDB)
